@@ -29,12 +29,15 @@
                         </li>
 
                         <li class="nav-item g-mx-10--lg g-mx-15--xl g-mb-7 g-mb-0--lg">
+                            <a href="#projects" class="nav-link g-color-white p-0">Projects</a>
+                        </li>
+
+                        <li class="nav-item g-mx-10--lg g-mx-15--xl g-mb-7 g-mb-0--lg">
                             <a href="#services" class="nav-link g-color-white p-0">Services</a>
                         </li>
                         <li class="nav-item g-mx-10--lg g-mx-15--xl g-mb-7 g-mb-0--lg">
                             <a href="#clients" class="nav-link g-color-white p-0">Clients</a>
                         </li>
-
                         <li class="nav-item g-ml-10--lg g-ml-15--xl">
                             <a href="#contact" class="nav-link g-color-white p-0">Contact</a>
                         </li>

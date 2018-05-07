@@ -46,6 +46,8 @@
 
         <?php require_once 'process.php';?>
 
+        <?php require_once 'projects.php';?>
+
         <?php require_once 'services.php';?>
 
         <?php require_once 'clients.php';?>
