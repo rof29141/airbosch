@@ -10,7 +10,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="<?php echo base_url()?>favicon.ico">
+    <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/favicon.ico">
 
     <!-- Google Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7COpen+Sans%3A300%2C400%2C600%2C700%2C800%7CPlayfair+Display%7CRaleway%7CSpectral%7CRubik">
